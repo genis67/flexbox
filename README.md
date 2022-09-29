@@ -1,3 +1,3 @@
 #Posicionando elementos com Flexbox em CSS
-# BootCamp Dio.me
+# BootCamp da Dio.me
 
